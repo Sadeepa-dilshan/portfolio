@@ -1,0 +1,8 @@
+# Ignore Next.js build output
+.next/
+
+# Ignore node modules
+node_modules/
+
+# Ignore output folder (if using `next export`)
+out/
