@@ -21,7 +21,7 @@ function Header() {
   return (
     <div
       className="header header-personal valign bg-img"
-      data-background="/assets/imgs/header/p0.jpg"
+      data-background="/assets/imgs/header/12.jpg"
       data-overlay-dark="2"
     >
       <div className="container ontop">
@@ -35,9 +35,9 @@ function Header() {
                 Hello! there
               </h6>
               <h1 className="fw-700 mb-10">
-                I&apos;m Oliver <span className="main-color">Jackson</span>
+                I&apos;m Sadeepa <span className="main-color">Dilshan</span>
               </h1>
-              <h3>I am a product designer</h3>
+              <h3>I am a Software Engineer</h3>
               <div className="row">
                 <div className="col-lg-9">
                   <div className="text mt-30">
@@ -68,15 +68,15 @@ function Header() {
         <div className="info d-flex align-items-center justify-content-end mt-100">
           <div className="item">
             <h6 className="sub-title mb-10">Email :</h6>
-            <span className="p-color">Webfolio.Info@gmail.com</span>
+            <span className="p-color">dsadeepa143@gmail.com</span>
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Phone :</h6>
-            <span className="p-color">+2 456 (343) 24 45</span>
+            <span className="p-color">+94 786538152</span>
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Address :</h6>
-            <span className="p-color">5919 Trussville Pkwy, Birmingham</span>
+            <span className="p-color">Colombo,Sri Lanka</span>
           </div>
         </div>
       </div>

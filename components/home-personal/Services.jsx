@@ -31,15 +31,15 @@ function Services() {
               <div className="icon-img-60 opacity-5 mb-40">
                 <img src="/assets/imgs/serv-icons/3.png" alt="" />
               </div>
-              <h5>UI/UX Design</h5>
+              <h5>Web Design & Development</h5>
               <div className="text mt-40">
                 <div className="mb-10">
-                  <span className="tag">UI/UX</span>
+                  <span className="tag">Web</span>
                   <span className="tag">Development</span>
                 </div>
                 <p>
-                  We always ensure that it combines a clean and beautiful visual
-                  design.
+                  We prioritize clean design, seamless UX, intuitive interaction, scalability, 
+                  performance, accessibility, responsiveness, and user satisfaction.
                 </p>
               </div>
               <a href="/page-services-details" className="mt-40">
@@ -52,15 +52,15 @@ function Services() {
               <div className="icon-img-60 opacity-5 mb-40">
                 <img src="/assets/imgs/serv-icons/4.png" alt="" />
               </div>
-              <h5>Brand Strategy</h5>
+              <h5>Saas Development</h5>
               <div className="text mt-40">
                 <div className="mb-10">
-                  <span className="tag">UI/UX</span>
+                  <span className="tag">Saas</span>
                   <span className="tag">Development</span>
                 </div>
                 <p>
-                  We always ensure that it combines a clean and beautiful visual
-                  design.
+                  SaaS (Software as a Service) is a cloud-based software delivery
+                  model where applications are hosted and maintained by a provider and accessed by users over the internet.
                 </p>
               </div>
               <a href="/page-services-details" className="mt-40">
@@ -73,15 +73,15 @@ function Services() {
               <div className="icon-img-60 opacity-5 mb-40">
                 <img src="/assets/imgs/serv-icons/5.png" alt="" />
               </div>
-              <h5>SEO / Marketing</h5>
+              <h5>Software Design & Development</h5>
               <div className="text mt-40">
                 <div className="mb-10">
-                  <span className="tag">UI/UX</span>
+                  <span className="tag">Mobile/Desktop</span>
                   <span className="tag">Development</span>
                 </div>
                 <p>
-                  We always ensure that it combines a clean and beautiful visual
-                  design.
+                  Software Design & Development is the process of building 
+                  efficient, scalable, and user-friendly applications tailored to business needs.
                 </p>
               </div>
               <a href="/page-services-details" className="mt-40">

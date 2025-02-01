@@ -78,18 +78,18 @@ function Portfolio() {
                   <div>
                     <div className="mb-15">
                       <a href="/portfolio-grid" className="tag">
-                        Figma
+                        Cloud
                       </a>
                       <a href="/portfolio-grid" className="tag">
-                        Web Design
+                        ERP Development
                       </a>
                     </div>
-                    <h4>Cutter mobile app</h4>
+                    <h4>Vision Plus ERP</h4>
                   </div>
                   <div>
                     <p>
-                      We’re a full stack firm that can help you from strategy to
-                      launch, and anywhere in between.
+                      We’re the software solution provider for vision plus.This ERP software
+                      is providing many features instead of a general POS or Order Managemnet system.
                     </p>
                     <a href="/project-details" className="underline mt-15">
                       <span className="text main-color sub-title">
@@ -113,18 +113,17 @@ function Portfolio() {
                   <div>
                     <div className="mb-15">
                       <a href="/portfolio-grid" className="tag">
-                        Figma
+                        Cloud
                       </a>
                       <a href="/portfolio-grid" className="tag">
-                        Web Design
+                        Inventory
                       </a>
                     </div>
-                    <h4>Cutter mobile app</h4>
+                    <h4>Vision Plus Inventory</h4>
                   </div>
                   <div>
                     <p>
-                      We’re a full stack firm that can help you from strategy to
-                      launch, and anywhere in between.
+                      We’re the software solution provider for vision plus.This is the first software solution for manage their inventory systems.
                     </p>
                     <a href="/project-details" className="underline mt-15">
                       <span className="text main-color sub-title">
@@ -148,18 +147,17 @@ function Portfolio() {
                   <div>
                     <div className="mb-15">
                       <a href="/portfolio-grid" className="tag">
-                        Figma
+                        Taxi
                       </a>
                       <a href="/portfolio-grid" className="tag">
-                        Web Design
+                        Taxi Web App
                       </a>
                     </div>
-                    <h4>Cutter mobile app</h4>
+                    <h4>Ciao Travels</h4>
                   </div>
                   <div>
                     <p>
-                      We’re a full stack firm that can help you from strategy to
-                      launch, and anywhere in between.
+                      This is a Vehicle Rentering Syetem.user can order a hire with a preferd vehicle.
                     </p>
                     <a href="/project-details" className="underline mt-15">
                       <span className="text main-color sub-title">

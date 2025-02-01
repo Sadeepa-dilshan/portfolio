@@ -31,15 +31,13 @@ function About() {
                 <h4 className="mb-30">
                   I&apos;m{' '}
                   <span className="fw-200">
-                    Creative Director and UI-UX Designer
                   </span>{' '}
-                  from Sydney, Australia, working in web development and print
-                  media.
+                  from Sri Lanka, working in Software development.
                 </h4>
                 <p>
                   I enjoy turning complex problems into simple, beautiful and
-                  intuitive designs. My aim is to bring across your message and
-                  identity in the most creative way. I created web design for
+                  intuitive designs and development. My aim is to bring across your message and
+                  identity in the most creative way. I have made softwares for
                   many famous brand companies.
                 </p>
 
@@ -63,7 +61,7 @@ function About() {
                     <div className="col-md-6">
                       <div className="item bord-thin-top pt-30 d-flex align-items-end mt-20">
                         <div>
-                          <h3 className="fw-300 mb-10">6700</h3>
+                          <h3 className="fw-300 mb-10">25</h3>
                           <h6 className="p-color sub-title">
                             Projects Completed
                           </h6>
