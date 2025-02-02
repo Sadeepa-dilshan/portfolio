@@ -78,7 +78,7 @@ function Skills() {
                 </div>
                 <span className="value">85%</span>
               </div>
-              <h6 className="fz-18">Graphic Design</h6>
+              <h6 className="fz-18">Maintaining</h6>
             </div>
           </div>
         </div>
