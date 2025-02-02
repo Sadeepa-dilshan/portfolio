@@ -46,6 +46,41 @@ function Portfolio() {
       ScrollTrigger.getAll().forEach((instance) => instance.kill());
     };
   }, []);
+  const newLocal = <div className="card-item sub-bg">
+    {/* <div className="row">
+      <div className="col-lg-5">
+        <div className="cont">
+          <div>
+            <div className="mb-15">
+              <a href="/portfolio-grid" className="tag">
+                Figma
+              </a>
+              <a href="/portfolio-grid" className="tag">
+                Web Design
+              </a>
+            </div>
+            <h4>Cutter mobile app</h4>
+          </div>
+          <div>
+            <p>
+              We’re a full stack firm that can help you from strategy to
+              launch, and anywhere in between.
+            </p>
+            <a href="" className="underline mt-15">
+              <span className="text main-color sub-title">
+                View Details <i className="ti-arrow-top-right"></i>
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div className="col-lg-7">
+        <div className="img">
+          <img src="/assets/imgs/works/1/4.jpg" alt="" />
+        </div>
+      </div>
+    </div> */}
+  </div>;
   return (
     <section className="work-card section-padding pb-0">
       <div className="container">
@@ -61,7 +96,7 @@ function Portfolio() {
             </div>
             <div className="ml-auto vi-more">
               <a
-                href="/portfolio-grid"
+                href="#"
                 className="butn butn-sm butn-bord radius-30"
               >
                 <span>View All</span>
@@ -77,10 +112,10 @@ function Portfolio() {
                 <div className="cont">
                   <div>
                     <div className="mb-15">
-                      <a href="/portfolio-grid" className="tag">
+                      <a href="#" className="tag">
                         Cloud
                       </a>
-                      <a href="/portfolio-grid" className="tag">
+                      <a href="#" className="tag">
                         ERP Development
                       </a>
                     </div>
@@ -91,7 +126,7 @@ function Portfolio() {
                       We’re the software solution provider for vision plus.This ERP software
                       is providing many features instead of a general POS or Order Managemnet system.
                     </p>
-                    <a href="/project-details" className="underline mt-15">
+                    <a href="#" className="underline mt-15">
                       <span className="text main-color sub-title">
                         View Details <i className="ti-arrow-top-right"></i>
                       </span>
@@ -112,10 +147,10 @@ function Portfolio() {
                 <div className="cont">
                   <div>
                     <div className="mb-15">
-                      <a href="/portfolio-grid" className="tag">
+                      <a href="#" className="tag">
                         Cloud
                       </a>
-                      <a href="/portfolio-grid" className="tag">
+                      <a href="#" className="tag">
                         Inventory
                       </a>
                     </div>
@@ -125,7 +160,7 @@ function Portfolio() {
                     <p>
                       We’re the software solution provider for vision plus.This is the first software solution for manage their inventory systems.
                     </p>
-                    <a href="/project-details" className="underline mt-15">
+                    <a href="" className="underline mt-15">
                       <span className="text main-color sub-title">
                         View Details <i className="ti-arrow-top-right"></i>
                       </span>
@@ -146,10 +181,10 @@ function Portfolio() {
                 <div className="cont">
                   <div>
                     <div className="mb-15">
-                      <a href="/portfolio-grid" className="tag">
+                      <a href="#" className="tag">
                         Taxi
                       </a>
-                      <a href="/portfolio-grid" className="tag">
+                      <a href="#" className="tag">
                         Taxi Web App
                       </a>
                     </div>
@@ -159,7 +194,7 @@ function Portfolio() {
                     <p>
                       This is a Vehicle Rentering Syetem.user can order a hire with a preferd vehicle.
                     </p>
-                    <a href="/project-details" className="underline mt-15">
+                    <a href="#" className="underline mt-15">
                       <span className="text main-color sub-title">
                         View Details <i className="ti-arrow-top-right"></i>
                       </span>
@@ -180,21 +215,21 @@ function Portfolio() {
                 <div className="cont">
                   <div>
                     <div className="mb-15">
-                      <a href="/portfolio-grid" className="tag">
-                        Figma
+                      <a href="#" className="tag">
+                        Ecommerce
                       </a>
-                      <a href="/portfolio-grid" className="tag">
+                      <a href="#" className="tag">
                         Web Design
                       </a>
                     </div>
-                    <h4>Cutter mobile app</h4>
+                    <h4>Multivendor Ecommerce Platform</h4>
                   </div>
                   <div>
                     <p>
-                      We’re a full stack firm that can help you from strategy to
-                      launch, and anywhere in between.
+                      We have developed a multi vendor ecommerce platform.this can be use for any person,business party.
+                      mainly focusing for multi vendor facility.
                     </p>
-                    <a href="/project-details" className="underline mt-15">
+                    <a href="#" className="underline mt-15">
                       <span className="text main-color sub-title">
                         View Details <i className="ti-arrow-top-right"></i>
                       </span>
@@ -204,42 +239,7 @@ function Portfolio() {
               </div>
               <div className="col-lg-7">
                 <div className="img">
-                  <img src="/assets/imgs/works/1/4.jpg" alt="" />
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="card-item sub-bg">
-            <div className="row">
-              <div className="col-lg-5">
-                <div className="cont">
-                  <div>
-                    <div className="mb-15">
-                      <a href="/portfolio-grid" className="tag">
-                        Figma
-                      </a>
-                      <a href="/portfolio-grid" className="tag">
-                        Web Design
-                      </a>
-                    </div>
-                    <h4>Cutter mobile app</h4>
-                  </div>
-                  <div>
-                    <p>
-                      We’re a full stack firm that can help you from strategy to
-                      launch, and anywhere in between.
-                    </p>
-                    <a href="/project-details" className="underline mt-15">
-                      <span className="text main-color sub-title">
-                        View Details <i className="ti-arrow-top-right"></i>
-                      </span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-7">
-                <div className="img">
-                  <img src="/assets/imgs/works/1/5.jpg" alt="" />
+                  <img src="/assets/imgs/works/1/4.png" alt="" />
                 </div>
               </div>
             </div>
@@ -249,7 +249,7 @@ function Portfolio() {
       <div className="sec-bottom mt-100">
         <div className="main-bg d-flex align-items-center">
           <h6 className="fz-14 fw-400">
-            More than <span className="fw-600"> 200+ companies</span>
+            More than <span className="fw-600"> 25+ companies</span>
             trusted us worldwide
           </h6>
         </div>

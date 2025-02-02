@@ -51,8 +51,8 @@ export default function Home() {
             <Portfolio />
             <Skills />
             <Testimonials />
-            <Clients />
-            <Blog />
+            {/* <Clients /> */}
+            {/* <Blog /> */}
             <Marq2 />
           </main>
           <Footer />

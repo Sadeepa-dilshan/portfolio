@@ -23,6 +23,10 @@ function Header() {
       className="header header-personal valign bg-img"
       data-background="/assets/imgs/header/12.jpg"
       data-overlay-dark="2"
+      style={{
+        backgroundPosition: 'right center',
+        backgroundSize: 'cover',
+      }}
     >
       <div className="container ontop">
         <div className="row">

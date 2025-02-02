@@ -73,9 +73,7 @@ function Testimonials() {
                   <h6 className="sub-title mb-15">Design Quality</h6>
                   <div className="text">
                     <p>
-                      “ I have been hiring people in this space for a number of
-                      years and I have never seen this level of
-                      professionalism.”
+                      “I didnt give any design but only my requirment.He is a verry smart developer.hope to work with again”
                     </p>
                   </div>
                 </div>
@@ -89,7 +87,7 @@ function Testimonials() {
                     <div className="ml-20">
                       <h6 className="fz-18">Haitham Al-Dukhin</h6>
                       <span className="p-color opacity-8 fz-15 mt-5">
-                        Envato Customer
+                        Ciao Customer
                       </span>
                     </div>
                   </div>
@@ -102,7 +100,7 @@ function Testimonials() {
                   <h6 className="sub-title mb-15">Design Quality</h6>
                   <div className="text">
                     <p>
-                      “ I have been hiring people in this space for a number of
+                      “ I have been working with people in this space for a number of
                       years and I have never seen this level of professionalism.
                       ”
                     </p>
@@ -118,7 +116,7 @@ function Testimonials() {
                     <div className="ml-20">
                       <h6 className="fz-18">Haitham Al-Dukhin</h6>
                       <span className="p-color opacity-8 fz-15 mt-5">
-                        Envato Customer
+                        Fiverr Customer
                       </span>
                     </div>
                   </div>

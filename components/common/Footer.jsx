@@ -6,21 +6,21 @@ function Footer() {
       <div className="container pb-40 pt-40 ontop">
         <div className="row justify-content-between">
           <div className="col-lg-2">
-            <div className="logo icon-img-100 md-mb80">
+            {/* <div className="logo icon-img-100 md-mb80">
               <img src="/assets/imgs/logo-light.png" alt="" />
-            </div>
+            </div> */}
           </div>
           <div className="col-lg-4">
             <div className="column md-mb50">
               <h6 className="sub-title mb-30">Contact</h6>
               <h6 className="p-color fw-400">
-                5919 Trussville Crossings <br /> Pkwy, Birmingham
+                Colombo<br /> Sri Lanka
               </h6>
               <h6 className="mt-30 mb-15">
-                <a href="#0">Hello@webfolio.com</a>
+                <a href="#0">dsadeepa143@gmail.com</a>
               </h6>
               <a href="#0" className="underline">
-                <span className="fz-22 main-color">+2 456 (343) 24 45</span>
+                <span className="fz-22 main-color">+94 786538152</span>
               </a>
             </div>
           </div>
@@ -29,16 +29,16 @@ function Footer() {
               <h6 className="sub-title mb-30">Useful Links</h6>
               <ul className="rest fz-14 opacity-7">
                 <li className="mb-15">
-                  <a href="/page-about">About</a>
+                  <a href="#">About</a>
                 </li>
                 <li className="mb-15">
-                  <a href="/page-services">Services</a>
+                  <a href="#">Services</a>
                 </li>
                 <li className="mb-15">
-                  <a href="/blog-grid-sidebar">Blog</a>
+                  <a href="#">Blog</a>
                 </li>
                 <li>
-                  <a href="/page-contact">Contact</a>
+                  <a href="#">Contact</a>
                 </li>
               </ul>
             </div>
@@ -80,10 +80,10 @@ function Footer() {
         <div className="pt-30 pb-30 mt-80 bord-thin-top">
           <div className="text-center">
             <p className="fz-14">
-              © 2024 Webfolio is Proudly Powered by{' '}
+              © 2025 Developed by{' '}
               <span className="underline main-color">
-                <a href="https://themeforest.net/user/UiCamp" target="_blank">
-                  UiCamp
+                <a href="https://www.linkedin.com/in/sadeepa-dilshan/" target="_blank">
+                  me
                 </a>
               </span>
             </p>
