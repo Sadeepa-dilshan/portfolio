@@ -67,7 +67,7 @@ function Skills() {
                 </div>
                 <span className="value">78%</span>
               </div>
-              <h6 className="fz-18">WordPress</h6>
+              <h6 className="fz-18">SEO</h6>
             </div>
           </div>
           <div className="col-lg-2 col-md-4 col-6">
@@ -78,7 +78,7 @@ function Skills() {
                 </div>
                 <span className="value">85%</span>
               </div>
-              <h6 className="fz-18">Maintaining</h6>
+              <h6 className="fz-18">Graphic Design</h6>
             </div>
           </div>
         </div>
