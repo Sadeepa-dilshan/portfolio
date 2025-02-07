@@ -38,7 +38,7 @@ function Services() {
           <div className="main-bg d-flex align-items-center">
             <p>Here are some select projects that showcase.</p>
             <a
-              href="/page-services"
+              href="#"
               className="butn main-color ml-40 underline"
             >
               <span>View All</span>

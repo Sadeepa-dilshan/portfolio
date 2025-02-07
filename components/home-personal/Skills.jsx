@@ -54,9 +54,9 @@ function Skills() {
                 <div className="img">
                   <img src="/assets/imgs/resume/s5.png" alt="" />
                 </div>
-                <span className="value">84%</span>
+                <span className="value">98%</span>
               </div>
-              <h6 className="fz-18">Sketch</h6>
+              <h6 className="fz-18">Satisfaction</h6>
             </div>
           </div>
           <div className="col-lg-2 col-md-4 col-6">
