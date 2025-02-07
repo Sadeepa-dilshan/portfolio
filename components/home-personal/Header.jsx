@@ -76,7 +76,7 @@ function Header() {
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Phone :</h6>
-            <span className="p-color">+94 786538152</span>
+            <span className="p-color">+94 75 0412638</span>
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Address :</h6>
